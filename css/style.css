@@ -185,6 +185,10 @@ h6 {
 	color: var(--primary-color) !important;
 }
 
+.recaptcha {
+	width: 90%;
+}
+
 /* Inner page grid container */
 .page-container {
 	display: grid;
